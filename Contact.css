@@ -107,4 +107,13 @@ input[type="submit"]:hover {
 textarea {
     resize: vertical;
 }
-
+.Footer{
+    background-color: #936A96;
+    color: black;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding: 0px;
+}
