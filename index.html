@@ -7,8 +7,11 @@
     <title>Our food blog</title>
     
 </head>
-<body class="body">
-    <!-- <div class="nav">
+
+<body>
+    <body class="body">
+    <script src="script.js"></script>
+    <div class="nav">
         <nav class="navbar">
             <div class="logo">
               <img src="Logo.png" alt="Our Food Blog"/>
@@ -110,7 +113,7 @@
         </div>
     </p>
 </div>
-<article>  
+<article class="Reviews">  
     <h1>Reviews</h1>
     <p>"Clear and concise instructions, coupled with vibrant images, make each recipe a breeze to follow! 
         I recently tried the Vegetarian Carbonara from your collection, and it was a smashing success! Thanks for sharing delicious vegetarian options!!"
@@ -123,15 +126,15 @@
 <p>And get at a free unreleased recipe each month, as a special thank you to our mailing list subscribers 
 </p>
 
-<form action="prosess.php" method="POST">
-<label for="E-mail" name="Email">
-</label>
-<input type="email" placeholder="EMail adress">
-<label for="Full Name" name="FullName">
-</label>
-<input type="text" placeholder="Full name">
+<form id="subscribeForm">
+    <label for="Email">Email:</label>
+    <input type="email" id="Email" name="Email" placeholder="Email address" required>
 
-<input type="submit" name="Subscribe" value="Subscribe">
+    <label for="FullName">Full Name:</label>
+    <input type="text" id="FullName" name="FullName" placeholder="Full name" required>
+
+    <input type="submit" id="Subscribe" name="Subscribe" value="Subscribe">
+
 </form>
 </section>
 </article>
@@ -139,7 +142,7 @@
 <br>
 <footer id="main-footer">
     <div class="Footer">   
-<div>About us <a href="About us.html" ></a>/ Recipes <a href="Recipes.html" ></a>/ Contact<a href="contact.html" ></a> </div>
+<div> <ul class="endbar_links"> <a href="About us.html" >About us </a> <a href="Recipes.html" > Recipes </a>  <a href="contact.html" > Contact </a> </ul> </div>
 <br>
     <hr>
     <br>
