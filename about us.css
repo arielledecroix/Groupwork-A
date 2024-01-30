@@ -97,6 +97,25 @@
   top: 600px;
   padding-left: 80px;
 }
+
+.headline_la {
+  color: #936A96;
+  position: relative;
+  top: 30px;
+  padding-left: 80px;
+}
+.headline_lo {
+  color: #936A96;
+  position: relative;
+  top: 30px;
+  padding-left: 80px;
+}
+.headline_ar {
+  color: #936A96;
+  position: relative;
+  top: 30px;
+  padding-left: 80px;
+}
 .HarvestBowl{
     border-radius: 100%;
     width: 150px;
