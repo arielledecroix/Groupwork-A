@@ -33,6 +33,10 @@
   border: 1px solid #E7B2EA;
   box-shadow: 0px 2px 8px 0px var(--border-colour);
   }
+.button:hover {
+      background-color:var(--dark-color);
+      /* color: #E7B2EA; */
+    }
 
  .image{
   justify-content:space-around;
