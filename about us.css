@@ -1,4 +1,63 @@
+.logo img {
+  background: var(--dark-color);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: var(--light-color);
+  padding-top: 5px;
+  padding-left: 15px;
+  position: fixed;
+  z-index: 3;
+  height: var(--header-height);
+  }
 
+  
+
+ .menu {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: var(--dark-color);
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  display: flex;
+  justify-content: end;
+  padding: 25px;
+  
+  }
+
+.a {
+  display: inline-block;
+  color: var(--beige);
+  text-align: center;
+  padding: 15px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: all 200ms ease-in-out;
+  font-family: "Comfortaa", sans-serif;
+  
+}
+
+.a:hover {
+  background-color:#E7B2EA ;
+  color: #936A96;
+  transition: all 200ms ease-in-out;
+}
+
+
+.body{
+    background-color: #EBD2B2;
+    color: black;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    padding-bottom: 0px;
+    position: relative;
+    top: 0px;
+}
 
 .HarvestBowl{
     border-radius: 100%;
