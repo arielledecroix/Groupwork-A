@@ -13,14 +13,10 @@
     box-sizing: border-box;
 }
 
-.button {
-  color:white;
-  background-color:#E7B2EA;
-  padding: 5px;
-  border-radius: 25px;
-  width: 50px;
-  box-shadow: 0px 2px 8px 0px var(--border-colour);
+.link {
+  color:#E7B2EA;
   transition: all 200ms ease-in-out;
+  text-decoration: underline;  
 }
 .button:hover {
       background-color:var(--dark-color);
