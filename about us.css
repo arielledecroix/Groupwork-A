@@ -77,8 +77,8 @@
     font-style: normal;
     text-align: left;
     padding-bottom: 0px;
-    position: relative;
-    top: 0px;
+    position: absolute;
+    top: 40px;
 }
 
 .HarvestBowl{
