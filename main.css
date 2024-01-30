@@ -147,8 +147,6 @@
 }
 .headline_A {
   color: var(--dark-color);
-  position: relative;
-  top: 190px;
   padding-left: 80px;
 }
 .text_L {
@@ -170,8 +168,6 @@
   justify-content: left;
   margin-right: 60%;
   margin-top: auto;
-  position: absolute;
-  top: 470px;
   text-align: left;
   float: left;
   width: 600px;
