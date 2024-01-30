@@ -149,7 +149,7 @@
 .headline_A {
   color: var(--dark-color);
   position: relative;
-  top: 350px;
+  top: 190px;
   padding-left: 80px;
 }
 .text_L {
@@ -161,7 +161,7 @@
   margin-right: 60%;
   margin-top: auto;
   position: absolute;
-  top: 430px;
+  top: 270px;
 }
 .text_A {
   padding: 80px;
@@ -172,10 +172,10 @@
   margin-right: 60%;
   margin-top: auto;
   position: absolute;
-  top: 270px;
+  top: 470px;
   text-align: left;
   float: left;
-  width: 500px;
+  width: 600px;
   left: 250px;
 }
 .frenchtoast {
