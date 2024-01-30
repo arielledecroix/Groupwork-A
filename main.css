@@ -48,6 +48,8 @@
   right: 150px;
   width: 400px;
   float: right;
+  border-radius: 8px;   
+    
  }
 .h2{
   text-align: left;
