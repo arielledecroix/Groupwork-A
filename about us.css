@@ -80,7 +80,12 @@
     position: absolute;
     top: 0px;
 }
-
+.headline_A {
+  color: #936A96;
+  position: relative;
+  top: 190px;
+  padding-left: 80px;
+}
 .HarvestBowl{
     border-radius: 100%;
     width: 150px;
