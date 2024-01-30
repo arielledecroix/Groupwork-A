@@ -1,3 +1,25 @@
+:root {
+    --light-color: #fff;
+    --dark-color: #936A96;
+    --header-height: 100px;
+    --search-height: 50px;
+    --border-colour: #936a96;
+    --beige: #EBD2B2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+   
+}*/
+ img {
+    border-radius: 8px;
+    
+ }
 .logo img {
   background: #936A96;
   display: flex;
