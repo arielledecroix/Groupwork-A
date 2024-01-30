@@ -8,6 +8,7 @@
     
 </head>
 <body>
+    <script src="script.js"></script>
     <div class="nav">
         <nav class="navbar">
             <div class="logo">
@@ -74,15 +75,15 @@
 <p>And get at a free unreleased recipe each month, as a special thank you to our mailing list subscribers 
 </p>
 
-<form action="prosess.php" method="POST">
-<label for="E-mail" name="Email">
-</label>
-<input type="email" placeholder="EMail adress">
-<label for="Full Name" name="FullName">
-</label>
-<input type="text" placeholder="Full name">
+<form id="subscribeForm">
+    <label for="Email">Email:</label>
+    <input type="email" id="Email" name="Email" placeholder="Email address" required>
 
-<input type="submit" name="Subscribe" value="Subscribe">
+    <label for="FullName">Full Name:</label>
+    <input type="text" id="FullName" name="FullName" placeholder="Full name" required>
+
+    <input type="submit" id="Subscribe" name="Subscribe" value="Subscribe">
+
 </form>
 </section>
 </article>
