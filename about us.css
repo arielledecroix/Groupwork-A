@@ -101,6 +101,12 @@
     text-align: left;
     padding: 0px;
 }
+.headline_L {
+  color: var(--dark-color);
+  position: relative;
+  top: 190px;
+  padding-left: 80px;
+}
 .Footer{
     background-color: #936A96;
     color: black;
