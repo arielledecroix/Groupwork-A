@@ -174,11 +174,15 @@
   font-size: large;
   display: flex;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: left;
   margin-right: 60%;
   margin-top: auto;
   position: absolute;
   top: 270px;
+  text-align: left;
+  float: left;
+  width: 500px;
+  left: 250px;
 }
 .frenchtoast {
   display: flex;
