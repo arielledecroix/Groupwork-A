@@ -152,8 +152,24 @@
   top: 190px;
   padding-left: 80px;
 }
-
+.headline_A {
+  color: var(--dark-color);
+  position: relative;
+  top: 350px;
+  padding-left: 80px;
+}
 .text_L {
+  padding: 80px;
+  font-size: large;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-right: 60%;
+  margin-top: auto;
+  position: absolute;
+  top: 430px;
+}
+.text_A {
   padding: 80px;
   font-size: large;
   display: flex;
@@ -164,7 +180,6 @@
   position: absolute;
   top: 270px;
 }
-
 .frenchtoast {
   display: flex;
   justify-content: flex-end;
