@@ -16,15 +16,9 @@
 .button {
   color:white;
   background-color:#E7B2EA;
-  padding: 15px;
+  padding: 5px;
   border-radius: 25px;
-  width: 200px;
-  display: flex;
-  justify-content: center;
-  margin-left: 250px;
-  position: absolute;
-  top: 580px;
-  text-decoration: none;
+  width: 50px;
   box-shadow: 0px 2px 8px 0px var(--border-colour);
   transition: all 200ms ease-in-out;
 }
