@@ -195,10 +195,11 @@ p.big {
     font-style: normal;
     text-align: center;
     padding-top: 20px;
-    position:fixed;
+    position:sticky;
     bottom: 0;
     width:100%;
-    margin-top:200px;
+    margin-top:100px;
+    padding-bottom: 15px;
 
 
 }
