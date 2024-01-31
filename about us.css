@@ -105,40 +105,49 @@ p.big {
 #Heading_A {
   color: #936A96;
   position: relative;
-  top: 50px;
+  top: 25px;
   padding-left: 20px;
-  text-shadow: 2px 2px 5px #E7B2EA;  
+  text-shadow: 2px 2px 5px #E7B2EA;
+  font-size: 40px;
 }
 .headers {
   color: #936A96;
   position: relative;
   top: 7px;
+  bottom: 2px;  
   padding-left: 5px;
-  font-weight: bold;   
+  font-weight: bold;
+  font-size: 30px;  
 } 
 #heading_la {
   color: #936A96;
   position: relative;
-  top: 7px;
+  top: 5px;
+  bottom: 2px;  
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
-  font-weight: bold;  
+  font-weight: bold; 
+  font-size:20px;  
 }
 #heading_lo {
   color: #936A96;  
   position: relative;
   top: 7px;
+  bottom: 2px;    
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
-  font-weight: bold;  
+  font-weight: bold;
+  font-size: 20px;  
 }
 #heading_ar {
   color: #936A96;
   position: relative;
   top: 7px;
+  bottom: 2px;    
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
   font-weight: bold; 
+  font-size: 20px;  
 }
 .HarvestBowl{
     border-radius: 100%;
