@@ -536,8 +536,8 @@ font-size: xx-large;
     display: flex;
     flex-direction: column;
     align-items: center;
-    position:absolute;
-    top:150px;
+    
+    
 }
 
 #requestForm label {
@@ -567,7 +567,7 @@ font-size: xx-large;
     background-color: #0056b3;
 }
 #contact-heading {
-position: absolute;
+position: relative;
 top: 100px;
 padding-left: 20px;
 }
