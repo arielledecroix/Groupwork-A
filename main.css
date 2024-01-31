@@ -536,6 +536,8 @@ font-size: xx-large;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
+    top: 200px;
     
     
 }
