@@ -61,11 +61,6 @@
   display: table;
 }
 
-.headline_LA {
-  color: var(--dark-color);
-  padding-left: 80px;
-  text-align:center;
-}
 
 .text{
   justify-content: left;
