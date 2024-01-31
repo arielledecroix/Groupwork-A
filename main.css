@@ -580,6 +580,11 @@ color: #936a96
 #subscribeForm {
     position: relative;
     bottomn: 200px;
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    justify-content: center;
   
 }
 
