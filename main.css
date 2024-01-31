@@ -445,7 +445,7 @@ font-size: xx-large;
 
 .container-bb {
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
     text-align: center;
     position:relative;
     top:35px;
