@@ -486,3 +486,22 @@ font-size: xx-large;
     padding: 0px;
 
 }
+
+.endbar-links {
+  color: var(--beige);
+  text-align: center;
+  padding: 15px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: all 200ms ease-in-out;
+  font-family: "Comfortaa", sans-serif;
+  
+}
+
+.endbar-links:hover {
+  background-color:#E7B2EA ;
+  color: #936A96;
+  transition: all 200ms ease-in-out;
+}
+    
