@@ -576,6 +576,13 @@ padding-left:30%;
 padding-right:30%;
 color: #936a96
 }
+.subscribe {
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    justify-content: center;
+}
 
 #subscribeForm {
     position: relative;
