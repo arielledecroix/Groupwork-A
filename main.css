@@ -419,6 +419,7 @@ font-size: xx-large;
 
 .Reviews{
   display: flex;
+     padding-left: 80px;
     text-align: center;
   justify-content: center;
 }
