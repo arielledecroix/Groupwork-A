@@ -102,26 +102,26 @@ p.big {
     position: absolute;
     top: 200px;
 }
-.headline_A {
+#headline_A {
   color: #936A96;
   position: relative;
-  top: 300px;
+  top: 150px;
   padding-left: 80px;
 }
 
-.headline_la {
+#headline_la {
   color: #936A96;
   position: relative;
   top: 30px;
   padding-left: 80px;
 }
-.headline_lo {
+#headline_lo {
   color: #936A96;
   position: relative;
   top: 30px;
   padding-left: 80px;
 }
-.headline_ar {
+#headline_ar {
   color: #936A96;
   position: relative;
   top: 30px;
