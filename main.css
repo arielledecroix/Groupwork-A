@@ -575,5 +575,6 @@ padding-left: 20px;
 }
 
 .subscribe {
-    justify-content: center;
+display:flex;
+jusitfy-content: center;
 }
