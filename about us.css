@@ -109,7 +109,13 @@ p.big {
   padding-left: 20px;
   text-shadow: 2px 2px 5px #E7B2EA;  
 }
-
+.headers {
+  color: #936A96;
+  position: relative;
+  top: 7px;
+  padding-left: 5px;
+  font-weight: bold;   
+} 
 #heading_la {
   color: #936A96;
   position: relative;
