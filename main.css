@@ -416,6 +416,20 @@ font-size: xx-large;
 .recipe:hover .recipe-title {
   color: white;
 }
+
+.Reviews{
+  display: flex;
+    text-align: center;
+  justify-content: center;
+}
+.headline_LA {
+  color: var(--dark-color);
+  padding-left: 80px;
+  display: flex;
+  text-align: center;
+  justify-content: center
+}
+
 .Footer{
     background-color: #936A96;
     color: black;
