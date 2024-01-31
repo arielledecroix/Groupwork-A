@@ -417,6 +417,53 @@ font-size: xx-large;
   color: white;
 }
 
+.hero-image-bb {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("images/sweet_potato_black_bean.jpg");
+  
+    /* Set a specific height */
+    height: 100%;
+  
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  /* Place text in the middle of the image */
+  .hero-text-bb {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: xx-large;
+    
+  }
+  
+  .hero-btn-bb {
+      background-color: #E7B2EA;
+      font-size: xx-large;
+      color: white;
+      border:0px;
+      border-radius: 50px;
+      padding:15px;
+      text-decoration: none;
+      box-shadow: 0px 2px 8px 0px var(--border-colour);
+      transition: all 200ms ease-in-out;
+      
+      
+  }
+  
+  
+  .hero-btn-bb:hover {
+      background-color:var(--dark-color);
+      
+    }
+  
+  
 .Reviews{
   display: flex;
      padding-left: 80px;
