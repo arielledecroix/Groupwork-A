@@ -438,32 +438,12 @@ font-size: xx-large;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: #936A96;
     font-size: xx-large;
     
     
   }
   
-  .hero-btn-bb {
-      background-color: #E7B2EA;
-      font-size: xx-large;
-      color: white;
-      border:0px;
-      border-radius: 50px;
-      padding:15px;
-      text-decoration: none;
-      box-shadow: 0px 2px 8px 0px var(--border-colour);
-      transition: all 200ms ease-in-out;
-      
-      
-  }
-  
-  
-/*   .hero-btn-bb:hover {
-      background-color:var(--dark-color);
-      
-    } 
-   */
   
 .Reviews{
   display: flex;
