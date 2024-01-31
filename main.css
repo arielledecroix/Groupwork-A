@@ -496,7 +496,7 @@ font-size: xx-large;
 
 }
 
-.endbar-links {
+.endbar_links {
   color: var(--beige);
   text-align: center;
   padding: 15px;
@@ -508,7 +508,7 @@ font-size: xx-large;
   
 }
 
-.endbar-links:hover {
+.endbar_links:hover {
   background-color:#E7B2EA ;
   color: #936A96;
   transition: all 200ms ease-in-out;
