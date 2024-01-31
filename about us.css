@@ -100,7 +100,7 @@ p.big {
     text-align: left;
     padding-bottom: 40px;
     position: absolute;
-    top: 25px;
+    top: 50px;
 }
 #Heading_A {
   color: #936A96;
@@ -113,8 +113,7 @@ p.big {
 .headers {
   color: #936A96;
   position: relative;
-  top: 7px;
-  bottom: 2px;  
+  bottom: 5px;  
   padding-left: 5px;
   font-weight: bold;
   font-size: 30px;  
@@ -122,8 +121,7 @@ p.big {
 #heading_la {
   color: #936A96;
   position: relative;
-  top: 5px;
-  bottom: 2px;  
+  bottom: 5px;  
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
   font-weight: bold; 
@@ -132,8 +130,7 @@ p.big {
 #heading_lo {
   color: #936A96;  
   position: relative;
-  top: 7px;
-  bottom: 2px;    
+  bottom: 5px;    
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
   font-weight: bold;
@@ -142,8 +139,7 @@ p.big {
 #heading_ar {
   color: #936A96;
   position: relative;
-  top: 7px;
-  bottom: 2px;    
+  bottom: 5px;    
   padding-left: 25px;
   text-shadow: 2px 2px 5px #E7B2EA;
   font-weight: bold; 
