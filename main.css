@@ -440,9 +440,16 @@ font-size: xx-large;
     transform: translate(-50%, -50%);
     color: #936A96;
     font-size: xx-large;
-    
-    
   }
+
+.container-bb {
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
   
   
 .Reviews{
