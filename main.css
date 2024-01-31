@@ -565,7 +565,7 @@ font-size: xx-large;
     background-color: #0056b3;
 }
 #contact-heading {
-position: relative;
+position: absolute;
 top: 100px;
 padding-left: 20px;
 }
