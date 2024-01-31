@@ -191,5 +191,29 @@ p.big {
     font-weight: 400;
     font-style: normal;
     text-align: center;
-    padding: 0px;
+    padding-top: 20px;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    margin-top:100px;
+
+
+}
+
+.endbar_links {
+  color: var(--beige);
+  text-align: center;
+  padding: 15px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: all 200ms ease-in-out;
+  font-family: "Comfortaa", sans-serif;
+  
+}
+
+.endbar_links:hover {
+  background-color:#E7B2EA ;
+  color: #936A96;
+  transition: all 200ms ease-in-out;
 }
