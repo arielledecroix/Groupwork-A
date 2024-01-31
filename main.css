@@ -422,7 +422,7 @@ font-size: xx-large;
     background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("sweet_potato_black_bean.jpg");
   
     /* Set a specific height */
-    height: 100%;
+    height: 80%;
   
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
