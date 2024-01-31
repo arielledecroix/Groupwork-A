@@ -459,6 +459,11 @@ font-size: xx-large;
   list-style-type: upper-roman;
 }
 
+.laura {
+    display:flex
+    justify-content:center;
+}
+    
   
   
 .Reviews{
