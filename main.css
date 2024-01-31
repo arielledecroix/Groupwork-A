@@ -416,7 +416,19 @@ font-size: xx-large;
 .recipe:hover .recipe-title {
   color: white;
 }
-
+.hero-image-mush { /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("mushroom&butterbean_traybake.jpg");
+  
+    /* Set a specific height */
+    height: 80%;
+  
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-bottom: 30px;
+  }
 .hero-image-bb {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("sweet_potato_black_bean.jpg");
