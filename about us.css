@@ -101,7 +101,7 @@ p.big {
     padding-bottom: 40px;
     position: absolute;
     top: 150px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -109,9 +109,9 @@ p.big {
   color: #936A96;
   position: relative;
   top: 5px;
-  padding-left: 20px;
+  padding-left: 15px;
   font-size: 40px;
-  padding-bottom: 35px;  
+  padding-bottom: 25px;  
 }
 .headers {
   color: #936A96;
