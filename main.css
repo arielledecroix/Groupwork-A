@@ -450,12 +450,13 @@ font-size: xx-large;
     position:relative;
     top:35px;
 }
-.container-bb .bb-text {
-    padding:40px;
-    text-align:center;
-}
+
 .ingredients {
     text-align: left;
+}
+
+.method{
+    justify-content: space-between;
 }
     
 .list {
