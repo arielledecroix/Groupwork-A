@@ -105,7 +105,7 @@ p.big {
 #Heading_A {
   color: #936A96;
   position: relative;
-  top: 100px;
+  top: 50px;
   padding-left: 20px;
   text-shadow: 2px 2px 5px #E7B2EA;  
 }
@@ -113,23 +113,26 @@ p.big {
 #heading_la {
   color: #936A96;
   position: relative;
-  top: 10px;
-  padding-left: 80px;
-  text-shadow: 2px 2px 5px #E7B2EA;  
+  top: 7px;
+  padding-left: 25px;
+  text-shadow: 2px 2px 5px #E7B2EA;
+  font-weight: bold;  
 }
 #heading_lo {
   color: #936A96;  
   position: relative;
-  top: 10px;
-  padding-left: 80px;
-  text-shadow: 2px 2px 5px #E7B2EA;    
+  top: 7px;
+  padding-left: 25px;
+  text-shadow: 2px 2px 5px #E7B2EA;
+  font-weight: bold;  
 }
 #heading_ar {
   color: #936A96;
   position: relative;
-  top: 10px;
-  padding-left: 80px;
-  text-shadow: 2px 2px 5px #E7B2EA;    
+  top: 7px;
+  padding-left: 25px;
+  text-shadow: 2px 2px 5px #E7B2EA;
+  font-weight: bold; 
 }
 .HarvestBowl{
     border-radius: 100%;
