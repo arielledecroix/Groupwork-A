@@ -442,7 +442,7 @@ font-size: xx-large;
     font-size: xx-large;
   }
 
-.container-bb {
+#container-bb {
     display:flex;
     justify-content:center;
     text-align: center;
@@ -450,6 +450,11 @@ font-size: xx-large;
     top: 50%;
     left: 50%;
 }
+
+.list {
+  list-style-type: upper-roman;
+}
+
   
   
 .Reviews{
