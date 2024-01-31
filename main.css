@@ -451,17 +451,9 @@ font-size: xx-large;
     top:35px;
     padding: 15px;
     margin:15px:
+    margin-bottom:100px;
 }
 
-/* .ingredients {
-    text-align: left;
-    margin-left:30px;
-    margin-right:15px;
-}
-
-.method{
-    justify-content: space-between;
-} */
     
 .list {
   list-style-type: upper-roman;
