@@ -569,7 +569,7 @@ font-size: xx-large;
 #requestForm input[type="submit"]:hover {
     background-color: #0056b3;
 }
-#contact-headline {
+#contact-heading {
 position: relative;
 top: 5px;
 padding-left: 20px;
