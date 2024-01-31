@@ -572,7 +572,9 @@ font-size: xx-large;
 #contact-heading {
 position: relative;
 top: 100px;
-padding-left: 20px;
+padding-left:50%;
+padding-right:50%;
+color: #936a96
 }
 
 #subscribeForm {
