@@ -102,6 +102,7 @@ p.big {
     position: absolute;
     top: 150px;
     margin-bottom: 50px;
+    padding-left: 15px;
 }
 #Heading_A {
   color: #936A96;
