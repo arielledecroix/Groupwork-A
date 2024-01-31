@@ -445,10 +445,10 @@ font-size: xx-large;
 
 .container-bb {
     display:flex;
-    justify-content:center;
+    justify-content:space-around;
     text-align: center;
     position:relative;
-    top:40px;
+    top:35px;
 }
 
 .list {
