@@ -90,15 +90,51 @@ p.big {
     position: relative;
     top: 0px;
 }
+
 .section {
     max-width: 600px;
-    margin: 50px auto; 
+    margin: 20px auto; /* Adjust the top margin as needed */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    background-color: var(--light-color); 
+    background-color: var(--light-color); /* Add this line to set a background color if needed */
 }
+
+#requestForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#requestForm label {
+    margin-bottom: 8px;
+    color: #333;
+}
+
+#requestForm input,
+#requestForm textarea {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#requestForm textarea {
+    resize: vertical;
+}
+
+#requestForm input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+#requestForm input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
 .Footer{
     background-color: #936A96;
     color: black;
