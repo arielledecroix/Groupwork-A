@@ -419,7 +419,7 @@ font-size: xx-large;
 
 .hero-image-bb {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("images/sweet_potato_black_bean.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.25)), url("sweet_potato_black_bean.jpg");
   
     /* Set a specific height */
     height: 100%;
