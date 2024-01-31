@@ -577,8 +577,9 @@ padding-left: 20px;
 
 #subscribeForm {
     position: relative;
-    bottomn: 150px;
+    bottomn: 200px;
     padding-left: 50%;
+    padding-right: 50%;
 }
 
 
