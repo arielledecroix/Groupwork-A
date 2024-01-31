@@ -575,4 +575,10 @@ top: 100px;
 padding-left: 20px;
 }
 
+#subscribeForm {
+    position: relative;
+    bottomn: 150px;
+    padding-left: 50%;
+}
+
 
