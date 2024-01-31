@@ -448,7 +448,7 @@ font-size: xx-large;
     justify-content:center;
     text-align: center;
     position:relative;
-    
+    top:600px;
 }
 
 .list {
