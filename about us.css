@@ -195,13 +195,9 @@ p.big {
     font-style: normal;
     text-align: center;
     padding-top: 20px;
-    position:sticky;
+    position:fixed;
     bottom: 0;
     width:100%;
-    margin-top:100px;
-    padding-bottom: 15px;
-
-
 }
 
 .endbar_links {
@@ -213,7 +209,6 @@ p.big {
   border-radius: 25px;
   transition: all 200ms ease-in-out;
   font-family: "Comfortaa", sans-serif;
-  
 }
 
 .endbar_links:hover {
