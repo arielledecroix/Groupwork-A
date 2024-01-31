@@ -450,7 +450,10 @@ font-size: xx-large;
     position:relative;
     top:35px;
 }
-
+.container-bb .bb-text {
+    padding:40px;
+    text-align:center;
+    
 .list {
   list-style-type: upper-roman;
 }
