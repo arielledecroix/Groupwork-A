@@ -481,16 +481,11 @@ font-size: xx-large;
   list-style-type: upper-roman;
 }
 
-.laura {
-    
-    justify-content:center;
-}
-    
-  
   
 .Reviews{
   display: flex;
      padding-left: 80px;
+    padding-right: 80px;
     text-align: center;
   justify-content: center;
 }
