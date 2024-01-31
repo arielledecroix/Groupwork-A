@@ -540,4 +540,37 @@ font-size: xx-large;
   color: #936A96;
   transition: all 200ms ease-in-out;
 }
+
+#requestForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#requestForm label {
+    margin-bottom: 8px;
+    color: #333;
+}
+
+#requestForm input,
+#requestForm textarea {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#requestForm textarea {
+    resize: vertical;
+}
+
+#requestForm input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+#requestForm input[type="submit"]:hover {
+    background-color: #0056b3;
+}
     
