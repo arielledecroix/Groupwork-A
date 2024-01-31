@@ -595,7 +595,7 @@ color: #936a96
     padding-left: 80px;
     padding-right: 80px;
     text-align: center;
-    justify-content: center;
+    justify-content: flex-start;
   
 } 
 
