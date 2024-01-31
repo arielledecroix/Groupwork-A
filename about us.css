@@ -100,7 +100,7 @@ p.big {
     text-align: left;
     padding-bottom: 40px;
     position: absolute;
-    top: 100px;
+    top: 150px;
 }
 #Heading_A {
   color: #936A96;
@@ -109,7 +109,7 @@ p.big {
   padding-left: 20px;
   text-shadow: 2px 2px 5px #E7B2EA;
   font-size: 40px;
-  padding-bottom: 70px;  
+  padding-bottom: 35px;  
 }
 .headers {
   color: #936A96;
