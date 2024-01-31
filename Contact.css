@@ -1,3 +1,18 @@
+:root {
+    --light-color: #fff;
+    --dark-color: #936A96;
+    --header-height: 100px;
+    --search-height: 50px;
+    --border-colour: #936a96;
+    --beige: #EBD2B2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .link {
   color:#E7B2EA;
   transition: all 200ms ease-in-out;
@@ -76,51 +91,6 @@ p.big {
     top: 0px;
 }
 
-section {
-    max-width: 600px;
-    margin: 80px auto;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-    text-align: center;
-    color: #333;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-label {
-    margin-bottom: 8px;
-    color: #333;
-}
-
-input,
-textarea {
-    padding: 10px;
-    margin-bottom: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-input[type="submit"] {
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-}
-
-input[type="submit"]:hover {
-    background-color: #0056b3;
-}
-
-textarea {
-    resize: vertical;
-}
 .Footer{
     background-color: #936A96;
     color: black;
