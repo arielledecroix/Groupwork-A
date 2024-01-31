@@ -440,10 +440,10 @@ font-size: xx-large;
     transform: translate(-50%, -50%);
     color: white;
     font-size: xx-large;
-    background-color:#936a96;
+    
     
   }
-/*   
+  
   .hero-btn-bb {
       background-color: #E7B2EA;
       font-size: xx-large;
@@ -459,11 +459,11 @@ font-size: xx-large;
   }
   
   
-  .hero-btn-bb:hover {
+/*   .hero-btn-bb:hover {
       background-color:var(--dark-color);
       
-    } */
-  
+    } 
+   */
   
 .Reviews{
   display: flex;
