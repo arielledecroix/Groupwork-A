@@ -429,6 +429,7 @@ font-size: xx-large;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    padding-bottom: 30px;
   }
   
   /* Place text in the middle of the image */
